@@ -20,10 +20,7 @@ This is the iOS purchase SDK of adjust™. You can read more about adjust™ at 
 
 ## <a id="basic-integration">Basic integration
 
-In order to use the adjust purchase SDK, you must **first enable fraud prevention** for your app. You can find the 
-instructions in our official [fraud prevention guide][fraud-prevention] documentation.
-
-We will describe the steps to integrate the adjust purchase SDK into your iOS project. We are going to assume that you use 
+Here, we describe the steps to integrate the adjust purchase SDK into your iOS project. We are going to assume that you use 
 Xcode for your iOS development.
 
 If you're using [Carthage][carthage], you can add following line to your `Cartfile` and continue with [step 3](#step3):
